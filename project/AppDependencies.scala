@@ -20,7 +20,7 @@ object AppDependencies {
     "uk.gov.hmrc"           %% "crypto"              % "5.5.0",
     "uk.gov.hmrc"           %% "http-verbs"          % "10.6.0-play-26",
     "uk.gov.hmrc"           %% "logback-json-logger" % "4.6.0",
-    "uk.gov.hmrc"           %% "play-auditing"       % "4.2.0-play-26",
+    "uk.gov.hmrc"           %% "play-auditing-play-26"       % "5.5.0-SNAPSHOT",
     "uk.gov.hmrc"           %% "play-health"         % "3.14.0-play-26",
     "uk.gov.hmrc"           %% "time"                % "3.6.0",
     "uk.gov.hmrc"           %% "cookie-banner-play-26" % "0.6.0",
